@@ -30,6 +30,8 @@ The game is chosen so that the wacky controller
 
 Whatever it will be, *something* will be finished at the end.
 
+![](distribution_of_labor.png)
+
 ## Timetable
 
 When         |What
