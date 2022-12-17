@@ -50,3 +50,9 @@ When         |What
 19:00-19:45  |Sixth block
 19:45-20:00  |Play!
 
+
+## Links
+
+![](bit.ly_bjoritowo.png)
+
+> QR code to this website
