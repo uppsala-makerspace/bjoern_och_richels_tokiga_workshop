@@ -1,11 +1,19 @@
 # bjoern_och_richels_tokiga_workshop
 
+```
+The event for Saturday February 4th 2023 13:00-20:00 is cancelled
+due to personal/private reasons.
+
+We will reschedule :-)
+```
+
+
 [This page is English, as Uppsala Makerspace has English members as well]
 
 Björn och Richels tokiga workshop, or 'Björn and Richels wacky workshop'.
 
  * Goal: have fun and build something, using, among others, Arduino and Processing
- * When: Saturday February 4th 2023 13:00-20:00
+ * When: ~~Saturday February 4th 2023 13:00-20:00~~
  * Where: at Uppsala Makerspace
  * For whom: 
    * students from the Lördagskurser
